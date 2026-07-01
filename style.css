@@ -1,0 +1,44 @@
+.centerhead {
+    font-family: "Times New Roman", Times, serif;
+    color: rgba(49, 23, 8, 0.541);
+    text-align: center;
+}
+
+.p {
+    border: solid rgb(20, 11, 1);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+
+.o {
+    border: solid rgb(231, 223, 215);
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+
+.body {
+    background-color: rgb(237, 230, 220);
+}
+
+.imgleft {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.imgright {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
